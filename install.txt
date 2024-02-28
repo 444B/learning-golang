@@ -1,0 +1,3 @@
+go install golang.org/x/website/tour@latest
+# https://go.dev/tour/welcome/3
+tour
